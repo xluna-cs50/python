@@ -1,3 +1,4 @@
+Prac - 1A
 # PROGRAM: VARIABLES AND DATA TYPES
 
 This program demonstrates the different data types available in Python.
