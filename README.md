@@ -1,3 +1,8 @@
+# Prac-1A: Variables and Data Types
+
+## Program
+
+```python
 # PROGRAM: VARIABLES AND DATA TYPES
 
 # Integer Variable
