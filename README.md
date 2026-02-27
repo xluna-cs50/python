@@ -48,7 +48,7 @@ print("Data type of student_info:", type(student_info))
 unique_numbers = {10, 20, 30, 20, 10}
 print("Unique Numbers Set:", unique_numbers)
 print("Data type of unique_numbers:", type(unique_numbers))
-
+```
 # Prac-1B: Type Casting
 
 ## Program
@@ -93,3 +93,5 @@ subjects = ("science", "maths", "english")
 subjects_list = list(subjects)
 print("Tuple to list:", subjects_list)
 print("Data type:", type(subjects_list))
+
+
